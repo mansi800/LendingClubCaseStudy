@@ -18,8 +18,8 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 * Multivariate Analysis(Correlation)
 
 ## Contributors
-*Mansi Upadhyay
-*Abhay Pratap Singh
+* Mansi Upadhyay
+* Abhay Pratap Singh
 
 ***Developed as part of the Exloratory Data Analysis Module required for Executive Post Graduate in Machine Learning and AI - IIIT,Bangalore.
 
